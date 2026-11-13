@@ -1,21 +1,12 @@
-Terms of Service – Rawi Academy
-Last updated: [tarih]
+Privacy Policy – Rawi Academy
+Last updated: 13.11.2026
 
-1. Purpose
-This app is used by Rawi Academy to publish educational content
-(Turkish language learning material for Arabic speakers) to its own
-TikTok account.
+This app is used only by Rawi Academy to publish its own
+educational content to its own TikTok account.
 
-2. Use
-The app only posts content created by Rawi Academy to the account
-that authorized it. It does not access other users' data.
+We access basic profile info (user.info.basic) and use authorization
+tokens solely to publish content. We do not collect, sell or share
+personal data of third parties. Tokens are stored privately and
+are not shared.
 
-3. Data
-The app stores only the authorization tokens needed to publish
-content. No personal data of third parties is collected or sold.
-
-4. Changes
-We may update these terms at any time. Continued use means acceptance.
-
-5. Contact
-[e-posta adresin]
+Contact: yasir7alrawi23@gmail.com
