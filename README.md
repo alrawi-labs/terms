@@ -1,4 +1,17 @@
-Privacy Policy – Rawi Academy
+# Terms of Service – Rawi Academy
+Last updated: 13.11.2026
+
+This app is used by Rawi Academy to publish educational content
+(Turkish language learning material for Arabic speakers) to its own
+TikTok account. It only posts content created by Rawi Academy to the
+account that authorized it and does not access other users' data.
+
+We may update these terms at any time.
+Contact: yasir7alrawi23@gmail.com
+
+---
+
+# Privacy Policy – Rawi Academy
 Last updated: 13.11.2026
 
 This app is used only by Rawi Academy to publish its own
